@@ -1,10 +1,7 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "Research"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+## Work in Progress
 
+### Advertising-driven slant in the media market
