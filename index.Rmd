@@ -1,12 +1,10 @@
 ---
-title: "Marguerite <br> Obolensky"
+title: "Marguerite Obolensky"
 image: "images/index_picture.jpg"
 site: distill::distill_website
 output: 
-  postcards::solana
+  postcards::trestles
 ---
-## Bio 
-
 I am a PhD candidate in Sustainable Development at Columbia University in the City of New York. 
 
 My research interests lie at the intersection of empirical industrial organization environmental economics and political economy. 
