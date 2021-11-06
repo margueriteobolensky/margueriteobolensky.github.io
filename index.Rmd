@@ -1,6 +1,7 @@
 ---
 title: "Marguerite Obolensky"
 image: "images/index_picture.jpg"
+favicon: images/default-favicon.ico
 site: distill::distill_website
 output: 
   postcards::trestles
