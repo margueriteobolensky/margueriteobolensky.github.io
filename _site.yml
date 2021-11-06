@@ -10,6 +10,8 @@ navbar:
       href: index.html
     - text: "research"
       href: research.html
+    - text: "cv"
+      href: "CV_obolensky.pdf"
     - text: "contact me"
       href: "mailto:m.obolensky@columbia.edu"
 theme: index.css
