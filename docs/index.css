@@ -73,7 +73,7 @@ d-appendix {
 /* Add any additional CSS rules below                      */
 
 h1, h2, h3 {
-  color: rgba(1,50,32, .8);
+  color: rgba(1, 50, 32, .8);
   font-variant: small-caps;
 }
 
@@ -110,3 +110,4 @@ body {
 html, body {
     height: 100%;
 }
+
