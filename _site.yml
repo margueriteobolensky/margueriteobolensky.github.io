@@ -1,5 +1,6 @@
-name: "Marguerite Obolensky"
+name: "academic website"
 title: "Marguerite Obolensky"
+favicon: images/default-favicon.ico
 description: |
   Marguerite Obolensky website
 output_dir: "docs"

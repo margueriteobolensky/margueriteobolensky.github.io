@@ -1,5 +1,4 @@
 ---
-name: "Marguerite Obolensky"
 title: "Marguerite <br> Obolensky"
 image: "images/index_picture.jpg"
 site: distill::distill_website
