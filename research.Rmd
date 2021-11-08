@@ -5,4 +5,4 @@ favicon: images/default-favicon.ico
 
 ## Work in Progress
 
-### Advertising-driven slant in the media market
+### Ownership, Advertising and Content Choice in the Media
