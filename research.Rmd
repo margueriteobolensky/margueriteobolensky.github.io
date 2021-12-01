@@ -3,6 +3,17 @@ title: "Research"
 favicon: images/default-favicon.ico
 ---
 
-## Work in Progress
+### Work in Progress
 
-### Ownership, Advertising and Content Choice in the Media
+**Ownership, Advertising and Content Choice in the Media** <br/> with Pierre Bodéré and Nicolas Longuet Marx
+
+### Other writings
+#### 2019
+[Wading Out the Storm: The Role of Poverty in Exposure, Vulnerability and Resilience to Floods in Dar Es Salaam](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3436477) <br/> *World Bank Policy Research Working Paper No. 8976* (with Alvina Erman, Mersedeh Tariverdi, Xiaomeng Chen, Rose Vincent, Silvia Malgioglio, Jun Rentschler, Stéphane Hallegatte, Nobuo Yoshida)
+
+[Candle in the Wind? Energy System Resilience to Natural Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3430507)<br/> *World Bank Policy Research Working Paper No. 8897* (with Jun Rentschler and Martin Kornejew)
+
+[Underutilized Potential: The Business Costs of Unreliable Infrastructure in Developing Countries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3430509) <br/> *World Bank Policy Research Working Paper No. 8899* (with Jun Rentschler, Martin Kornejew, Stéphane Hallegatte and Johannes Braese)
+
+[Infrastructure Disruptions: How Instability Breeds Household Vulnerability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3430512) <br/> *World Bank Policy Research Working Paper No. 8902* (with Alvina Erman, Julie Rozenberg, Jun Rentschler, Paolo Avner and Stéphane Hallegatte)
+

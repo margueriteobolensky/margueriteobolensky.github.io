@@ -8,7 +8,7 @@ output:
 ---
 I am a PhD candidate in Sustainable Development at Columbia University in the City of New York. 
 
-My research interests lie at the intersection of empirical industrial organization environmental economics and political economy. 
+My research interests lie at the intersection of empirical industrial organization, environmental economics and political economy. 
 
 I hold a Master in Environmental Economics and Climate Change from the London School of Economics and a Bachelor degree from Ecole Polytechnique, France. Prior to my PhD, I worked as a consultant in disaster risk management at the World Bank.
 <br>
