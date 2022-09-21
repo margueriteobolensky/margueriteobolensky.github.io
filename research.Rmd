@@ -21,7 +21,7 @@ function hide_buttons(abstract) {
 
 
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_media')">Abstract</button>
-<div id="abstract_media">
+<div id="abstract_media" style="display: none;">
 The rise in political polarization over the recent years has fostered scrutiny of the structure of the news industry’ s influence on political outcomes. How should policymakers regulate news producers when they value news diversity and large publishers shape the ideological landscape? To answer this question, we develop an empirical model of competition for readership and advertisers between news producers. We recover the topic content and ideological positions of 200 major U.S. daily newspapers using recent advances in Natural Language Processing on millions of published articles. We find that over the period 2007-2017, the median newspaper in our sample got closer to the ideology of the Democratic party. Second, we embed these topics and ideal points in a demand model for differentiated products with heterogeneous readers. Our model shows that rich readers lean democrat and consume more news about social and political questions while the elderly are more conservative and care more about local news. Using the estimated demand model and data on advertising contracts and readership, we can recover the cost of producing each type of content. Given this model of news supply, we intend to use our framework to provide recommendations on antitrust rules weighing both consumer welfare and ideological diversity.
 </div>
 <br> </br>
