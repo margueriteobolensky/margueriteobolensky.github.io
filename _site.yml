@@ -1,6 +1,6 @@
 name: "academic website"
 title: "marguerite obolensky"
-favicon: images/NYU-Symbol.ico
+favicon: images/default-favicon.ico
 description: |
   Marguerite Obolensky website
 output_dir: "docs"
