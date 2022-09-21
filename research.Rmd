@@ -2,20 +2,42 @@
 title: "Research"
 favicon: images/default-favicon.ico
 ---
+<script>
+function hide_buttons(abstract) {
+    var x = document.getElementById(abstract);
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+</script>
 
 ### Works in Progress
 
-**News Media consolidation and Ideological Positioning** <br/> with Pierre Bodéré and Nicolas Longuet Marx
+**News Media Concentration and Content Diversity** <br/> with Pierre Bodéré and Nicolas Longuet Marx
 
-**Industry specialization and regional adpatation to climate change** 
+<button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_media')">Abstract</button>
+<div id="abstract_media">
+The rise in political polarization over the recent years has fostered scrutiny of the structure of the news industry’ s influence on political outcomes. How should policymakers regulate news producers when they value news diversity and large publishers shape the ideological landscape? To answer this question, we develop an empirical model of competition for readership and advertisers between news producers. We recover the topic content and ideological positions of 200 major U.S. daily newspapers using recent advances in Natural Language Processing on millions of published articles. We find that over the period 2007-2017, the median newspaper in our sample got closer to the ideology of the Democratic party. Second, we embed these topics and ideal points in a demand model for differentiated products with heterogeneous readers. Our model shows that rich readers lean democrat and consume more news about social and political questions while the elderly are more conservative and care more about local news. Using the estimated demand model and data on advertising contracts and readership, we can recover the cost of producing each type of content. Given this model of news supply, we intend to use our framework to provide recommendations on antitrust rules weighing both consumer welfare and ideological diversity.
+</div>
+<br> </br>
+**Industry Specialization and Regional Adaptation to Climate Change** 
+
+<br> </br>
 
 ### Pre-Doctoral Work
-#### 2019
-[Wading Out the Storm: The Role of Poverty in Exposure, Vulnerability and Resilience to Floods in Dar Es Salaam](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3436477) <br/> *World Bank Policy Research Working Paper No. 8976* (with Alvina Erman, Mersedeh Tariverdi, Xiaomeng Chen, Rose Vincent, Silvia Malgioglio, Jun Rentschler, Stéphane Hallegatte, Nobuo Yoshida)
 
-[Candle in the Wind? Energy System Resilience to Natural Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3430507)<br/> *World Bank Policy Research Working Paper No. 8897* (with Jun Rentschler and Martin Kornejew)
+[Wading Out the Storm: The Role of Poverty in Exposure, Vulnerability and Resilience to Floods in Dar Es Salaam](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3436477) <br/> with Alvina Erman, Mersedeh Tariverdi, Xiaomeng Chen, Rose Vincent, Silvia Malgioglio, Jun Rentschler, Stéphane Hallegatte, Nobuo Yoshida <br/>
+*World Bank Policy Research Working Paper No. 8976*, 2019 
 
-[Underutilized Potential: The Business Costs of Unreliable Infrastructure in Developing Countries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3430509) <br/> *World Bank Policy Research Working Paper No. 8899* (with Jun Rentschler, Martin Kornejew, Stéphane Hallegatte and Johannes Braese)
+[Candle in the Wind? Energy System Resilience to Natural Shocks](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3430507)<br/> with Jun Rentschler and Martin Kornejew <br/>
+*World Bank Policy Research Working Paper No. 8897*, 2019
 
-[Infrastructure Disruptions: How Instability Breeds Household Vulnerability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3430512) <br/> *World Bank Policy Research Working Paper No. 8902* (with Alvina Erman, Julie Rozenberg, Jun Rentschler, Paolo Avner and Stéphane Hallegatte)
+[Underutilized Potential: The Business Costs of Unreliable Infrastructure in Developing Countries](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3430509)  
+with Jun Rentschler, Martin Kornejew, Stéphane Hallegatte and Johannes Braese <br/>
+*World Bank Policy Research Working Paper No. 8899*, 2019 
+
+[Infrastructure Disruptions: How Instability Breeds Household Vulnerability](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3430512) <br/> with Alvina Erman, Julie Rozenberg, Jun Rentschler, Paolo Avner and Stéphane Hallegatte <br/>
+*World Bank Policy Research Working Paper No. 8902*, 2019
 

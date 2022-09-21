@@ -6,8 +6,6 @@ description: |
 output_dir: "docs"
 navbar:
   right:
-    - text: "home"
-      href: index.html
     - text: "research"
       href: research.html
     - text: "cv"

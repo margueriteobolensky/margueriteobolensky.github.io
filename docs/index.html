@@ -826,7 +826,32 @@
           html, body {
               height: 100%;
           }
-          </style>
+
+
+          .button_that_looks_like_link {
+            background: none!important;
+            border: none;
+            padding: 0!important;
+            /*optional*/
+            /*font-family: arial, sans-serif;*/
+            /*input has OS specific font-family*/
+            color: rgba(1,50,32, .8);
+            text-decoration: underline;
+            cursor: pointer;
+            width: fit-content;
+            font-size:14px;
+            font-family: "OPen-Sans", sans-serif;
+          }
+
+          .button_that_looks_like_link:hover {
+                color:rgb(115,130,118, 0.5);
+            }
+
+          /* Hide abstracts */
+          #abstract_media {
+          display: none;
+          font-size:13px;
+          }</style>
           <style type="text/css">
           /* base style */
 
@@ -994,7 +1019,6 @@
           <a href="index.html" class="title">marguerite obolensky</a>
           </div>
           <div class="nav-right">
-          <a href="index.html">home</a>
           <a href="research.html">research</a>
           <a href="CV_obolensky.pdf">cv</a>
           <a href="mailto:m.obolensky@columbia.edu">contact me</a>

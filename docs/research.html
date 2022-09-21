@@ -2229,7 +2229,32 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   html, body {
       height: 100%;
   }
-  </style>
+
+
+  .button_that_looks_like_link {
+    background: none!important;
+    border: none;
+    padding: 0!important;
+    /*optional*/
+    /*font-family: arial, sans-serif;*/
+    /*input has OS specific font-family*/
+    color: rgba(1,50,32, .8);
+    text-decoration: underline;
+    cursor: pointer;
+    width: fit-content;
+    font-size:14px;
+    font-family: "OPen-Sans", sans-serif;
+  }
+
+  .button_that_looks_like_link:hover {
+        color:rgb(115,130,118, 0.5);
+    }
+
+  /* Hide abstracts */
+  #abstract_media {
+  display: none;
+  font-size:13px;
+  }</style>
   <style type="text/css">
   /* base style */
 
@@ -2416,7 +2441,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <a href="index.html" class="title">marguerite obolensky</a>
 </div>
 <div class="nav-right">
-<a href="index.html">home</a>
 <a href="research.html">research</a>
 <a href="CV_obolensky.pdf">cv</a>
 <a href="mailto:m.obolensky@columbia.edu">contact me</a>
@@ -2437,37 +2461,72 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
+<script>
+function hide_buttons(abstract) {
+    var x = document.getElementById(abstract);
+    if (x.style.display === "none") {
+        x.style.display = "block";
+    } else {
+        x.style.display = "none";
+    }
+}
+</script>
 <h3 id="works-in-progress">Works in Progress</h3>
-<p><strong>News Media consolidation and Ideological Positioning</strong>
-<br/> with Pierre Bodéré and Nicolas Longuet Marx</p>
-<p><strong>Industry specialization and regional adpatation to climate
-change</strong></p>
+<p><strong>News Media Concentration and Content Diversity</strong> <br/>
+with Pierre Bodéré and Nicolas Longuet Marx</p>
+<button class="button_that_looks_like_link" role="button" onclick="hide_buttons(&#39;abstract_media&#39;)">
+Abstract
+</button>
+<div id="abstract_media">
+<p>The rise in political polarization over the recent years has fostered
+scrutiny of the structure of the news industry’ s influence on political
+outcomes. How should policymakers regulate news producers when they
+value news diversity and large publishers shape the ideological
+landscape? To answer this question, we develop an empirical model of
+competition for readership and advertisers between news producers. We
+recover the topic content and ideological positions of 200 major U.S.
+daily newspapers using recent advances in Natural Language Processing on
+millions of published articles. We find that over the period 2007-2017,
+the median newspaper in our sample got closer to the ideology of the
+Democratic party. Second, we embed these topics and ideal points in a
+demand model for differentiated products with heterogeneous readers. Our
+model shows that rich readers lean democrat and consume more news about
+social and political questions while the elderly are more conservative
+and care more about local news. Using the estimated demand model and
+data on advertising contracts and readership, we can recover the cost of
+producing each type of content. Given this model of news supply, we
+intend to use our framework to provide recommendations on antitrust
+rules weighing both consumer welfare and ideological diversity.</p>
+</div>
+<p><br> </br> <strong>Industry Specialization and Regional Adaptation to
+Climate Change</strong></p>
+<p><br> </br></p>
 <h3 id="pre-doctoral-work">Pre-Doctoral Work</h3>
-<h4 id="section">2019</h4>
 <p><a
 href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3436477">Wading
 Out the Storm: The Role of Poverty in Exposure, Vulnerability and
-Resilience to Floods in Dar Es Salaam</a> <br/> <em>World Bank Policy
-Research Working Paper No. 8976</em> (with Alvina Erman, Mersedeh
-Tariverdi, Xiaomeng Chen, Rose Vincent, Silvia Malgioglio, Jun
-Rentschler, Stéphane Hallegatte, Nobuo Yoshida)</p>
+Resilience to Floods in Dar Es Salaam</a> <br/> with Alvina Erman,
+Mersedeh Tariverdi, Xiaomeng Chen, Rose Vincent, Silvia Malgioglio, Jun
+Rentschler, Stéphane Hallegatte, Nobuo Yoshida <br/> <em>World Bank
+Policy Research Working Paper No. 8976</em>, 2019</p>
 <p><a
 href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3430507">Candle
-in the Wind? Energy System Resilience to Natural Shocks</a><br/>
-<em>World Bank Policy Research Working Paper No. 8897</em> (with Jun
-Rentschler and Martin Kornejew)</p>
+in the Wind? Energy System Resilience to Natural Shocks</a><br/> with
+Jun Rentschler and Martin Kornejew <br/> <em>World Bank Policy Research
+Working Paper No. 8897</em>, 2019</p>
 <p><a
 href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3430509">Underutilized
 Potential: The Business Costs of Unreliable Infrastructure in Developing
-Countries</a> <br/> <em>World Bank Policy Research Working Paper
-No. 8899</em> (with Jun Rentschler, Martin Kornejew, Stéphane Hallegatte
-and Johannes Braese)</p>
+Countries</a><br />
+with Jun Rentschler, Martin Kornejew, Stéphane Hallegatte and Johannes
+Braese <br/> <em>World Bank Policy Research Working Paper No. 8899</em>,
+2019</p>
 <p><a
 href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3430512">Infrastructure
 Disruptions: How Instability Breeds Household Vulnerability</a> <br/>
-<em>World Bank Policy Research Working Paper No. 8902</em> (with Alvina
-Erman, Julie Rozenberg, Jun Rentschler, Paolo Avner and Stéphane
-Hallegatte)</p>
+with Alvina Erman, Julie Rozenberg, Jun Rentschler, Paolo Avner and
+Stéphane Hallegatte <br/> <em>World Bank Policy Research Working Paper
+No. 8902</em>, 2019</p>
 <div class="sourceCode" id="cb1"><pre
 class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
