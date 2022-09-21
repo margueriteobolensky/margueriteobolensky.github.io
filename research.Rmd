@@ -15,7 +15,10 @@ function hide_buttons(abstract) {
 
 ### Works in Progress
 
-**News Media Concentration and Content Diversity** <br/> with Pierre Bodéré and Nicolas Longuet Marx
+**News Media Concentration and Content Diversity** <br/> with Pierre Bodéré and 
+[<span style="font-weight: normal">Nicolas Longuet Marx</span>](https://nicolaslonguetmarx.github.io/)
+
+
 
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_media')">Abstract</button>
 <div id="abstract_media">
