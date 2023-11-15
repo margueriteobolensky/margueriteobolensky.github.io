@@ -15,22 +15,17 @@ function hide_buttons(abstract) {
 
 ### Working papers 
 
-<br> 
 [**Homeward Bound: How Migrants Seek Out Familiar Climates**](content/working_papers/homeward_bound.pdf) <br/>  with [<span style="font-weight: normal">Marco Tabellini</span>](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1060330) and [<span style="font-weight: normal">Charles Taylor</span>](https://ca-taylor.com/)
-
 
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_homeward_bound')">Abstract</button>
 <div id="abstract_homeward_bound" style="display: none;">
-
-This paper introduces the concept of "climate matching" as a driver of migration. Using historical censuses and administrative data, we document several novel findings. First, we show that climate strongly predicts the spatial distribution of international and domestic migrants in the US, both historically (1850-1940) and more recently (2011-2019), whereby movers select destinations with climates similar to those in their origin. Second, we analyze historical flows of German, Norwegian, and domestic migrants in the US and find that climate sorting also holds \textit{within} countries. Third, we exploit variation in the long-run \textit{change} in average US climate from 1900 to 2019 and find evidence of climate matching over time, with migration increasing between locations whose climate converged. Our results hold across time, geography, and migrant groups, and are not driven by the persistence of ethnic networks or other confounders. We provide evidence for two complementary mechanisms: climate-specific human capital and climate as amenity. We then back out the marginal value of climate by: $i)$ exploiting the 1862 Homestead Act, a public policy that changed relative land prices; and, $ii)$ estimating the effect of climate mismatch on life expectancy. We conclude by projecting how climate change can reshape the geography of US internal migration throughout the 21st century.
+This paper introduces the concept of "climate matching" as a driver of migration. Using historical censuses and administrative data, we document several novel findings. First, we show that climate strongly predicts the spatial distribution of international and domestic migrants in the US, both historically (1850-1940) and more recently (2011-2019), whereby movers select destinations with climates similar to those in their origin. Second, we analyze historical flows of German, Norwegian, and domestic migrants in the US and find that climate sorting also holds *within* countries. Third, we exploit variation in the long-run *change* in average US climate from 1900 to 2019 and find evidence of climate matching over time, with migration increasing between locations whose climate converged. Our results hold across time, geography, and migrant groups, and are not driven by the persistence of ethnic networks or other confounders. We provide evidence for two complementary mechanisms: climate-specific human capital and climate as amenity. We then back out the marginal value of climate by: $i)$ exploiting the 1862 Homestead Act, a public policy that changed relative land prices; and, $ii)$ estimating the effect of climate mismatch on life expectancy. We conclude by projecting how climate change can reshape the geography of US internal migration throughout the 21st century.
 </div>
 
 <br> 
 
 
 ### Works in Progress
-
-<br> 
 
 **Resilient Agriculture: a Dynamic Land Use Approach to Insurance Design in a Changing
 Climate** 
@@ -46,7 +41,7 @@ Weather variability represents a large threat to agricultural yields. In respons
 
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('crop_diversity_pests')">Abstract</button>
 <div id="crop_diversity_pests" style="display: none;">
-We provide evidence of the role of local agricultural crop diversity, measured by local crop richness and evenness, in hampering the diffusion of pests. First, we build consistent county-level diversity measures using a new machine-learning based method to link the US Agricultural Census of Agriculture between 1880-2007. Second, we show large declines in local crop diversity over the second half of 20\textsuperscript{th} century, consistent with previous findings. Finally, we examine the impact of crop diversity on the spread of two significant pest outbreaks in US agricultural systems—the boll weevil (1890-1930) and the imported fire ant (1940-1997). We address reverse causality concerns by instrumenting local crop diversity with the expected (pre-planting) spread in crop revenues. We find that increases in crop diversity prevented the diffusion of these two pests.
+We provide evidence of the role of local agricultural crop diversity, measured by local crop richness and evenness, in hampering the diffusion of pests. First, we build consistent county-level diversity measures using a new machine-learning based method to link the US Agricultural Census of Agriculture between 1880-2007. Second, we show large declines in local crop diversity over the second half of 20th century, consistent with previous findings. Finally, we examine the impact of crop diversity on the spread of two significant pest outbreaks in US agricultural systems—the boll weevil (1890-1930) and the imported fire ant (1940-1997). We address reverse causality concerns by instrumenting local crop diversity with the expected (pre-planting) spread in crop revenues. We find that increases in crop diversity prevented the diffusion of these two pests.
 </div>
 
 <br> 
