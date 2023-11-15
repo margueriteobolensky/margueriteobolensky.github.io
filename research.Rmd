@@ -31,13 +31,23 @@ This paper introduces the concept of "climate matching" as a driver of migration
 ### Works in Progress
 
 <br> 
+
 **Resilient Agriculture: a Dynamic Land Use Approach to Insurance Design in a Changing
 Climate** 
 
+<button class="button_that_looks_like_link" role="button" onclick="hide_buttons('JMP')">Abstract</button>
+<div id="JMP" style="display: none;">
+Weather variability represents a large threat to agricultural yields. In response, crop insurance has emerged as a crucial policy tool in the United States, offering premium subsidies to farmers in counties with historical crop cultivation. This reduces the program's exposure to climate-related risks by not insuring farmers in regions where sufficient data are lacking. However, it also contributes to locking farmers in current cropland areas. With climate change shifting suitable growing areas, farmers will be faced with the challenge of spatially reallocating agricultural production. I combine parcel-level land use data and county-level insurance data obtained from the Risk Management Agency with a dynamic model of crop choice and insurance take up to study the trade-off between managing actuarial costs and adapting crop insurance to facilitate gradual crop migration.
+</div>
 
-
+<br> 
 
 **Local Crop Species Diversity and Pest Diffusion: Evidence from the US Census of Agriculture** <br/>  with [<span style="font-weight: normal">Tristan du Puy</span>](https://tristandupuy.github.io/) 
+
+<button class="button_that_looks_like_link" role="button" onclick="hide_buttons('crop_diversity_pests')">Abstract</button>
+<div id="crop_diversity_pests" style="display: none;">
+We provide evidence of the role of local agricultural crop diversity, measured by local crop richness and evenness, in hampering the diffusion of pests. First, we build consistent county-level diversity measures using a new machine-learning based method to link the US Agricultural Census of Agriculture between 1880-2007. Second, we show large declines in local crop diversity over the second half of 20\textsuperscript{th} century, consistent with previous findings. Finally, we examine the impact of crop diversity on the spread of two significant pest outbreaks in US agricultural systems—the boll weevil (1890-1930) and the imported fire ant (1940-1997). We address reverse causality concerns by instrumenting local crop diversity with the expected (pre-planting) spread in crop revenues. We find that increases in crop diversity prevented the diffusion of these two pests.
+</div>
 
 <br> 
 
@@ -47,7 +57,7 @@ Climate**
 
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_media')">Abstract</button>
 <div id="abstract_media" style="display: none;">
-The rise in political polarization over the recent years has fostered scrutiny of the structure of the news industry’ s influence on political outcomes. How should policymakers regulate news producers when they value news diversity and large publishers shape the ideological landscape? To answer this question, we develop an empirical model of competition for readership and advertisers between news producers. We recover the topic content and ideological positions of 200 major U.S. daily newspapers using recent advances in Natural Language Processing on millions of published articles. We find that over the period 2007-2017, the median newspaper in our sample got closer to the ideology of the Democratic party. Second, we embed these topics and ideal points in a demand model for differentiated products with heterogeneous readers. Our model shows that rich readers lean democrat and consume more news about social and political questions while the elderly are more conservative and care more about local news. Using the estimated demand model and data on advertising contracts and readership, we can recover the cost of producing each type of content. Given this model of news supply, we intend to use our framework to provide recommendations on antitrust rules weighing both consumer welfare and ideological diversity.
+The rise in political polarization over the recent years has fostered scrutiny of the structure of the news industry’ s influence on political outcomes. How should policymakers regulate news producers when they value news diversity and large publishers shape the ideological landscape? We develop an empirical model of competition for readership and advertisers between news producers. We recover the topic content and ideological positions of 200 major U.S. daily newspapers using recent advances in Natural Language Processing on millions of published articles. We find that over the period 2007-2017, the median newspaper in our sample got closer to the ideology of the Democratic party. Second, we embed these topics and ideal points in a demand model for differentiated products with heterogeneous readers. Our model shows that rich readers lean democrat and consume more news about social and political questions while the elderly are more conservative and care more about local news. Using the estimated demand model and data on advertising contracts and readership, we can recover the cost of producing each type of content. Given this model of news supply, we intend to use our framework to provide recommendations on antitrust rules weighing both consumer welfare and ideological diversity.
 </div>
 
 <br> </br>
