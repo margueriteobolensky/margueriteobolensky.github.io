@@ -16,7 +16,7 @@ function hide_buttons(abstract) {
 ### Working papers 
 
 <br> 
-[**Homeward Bound: How Migrants Seek Out Familiar Climates**](https://margueriteobolensky.github.io/docs/working_papers/homeward_bound_ott.pdf). <br/>  with [<span style="font-weight: normal">Marco Tabellini</span>](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1060330) and [<span style="font-weight: normal">Charles Taylor</span>](https://ca-taylor.com/)
+[**Homeward Bound: How Migrants Seek Out Familiar Climates**](content/working_papers/homeward_bound.pdf). <br/>  with [<span style="font-weight: normal">Marco Tabellini</span>](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1060330) and [<span style="font-weight: normal">Charles Taylor</span>](https://ca-taylor.com/)
 
 
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_homeward_bound')">Abstract</button>
