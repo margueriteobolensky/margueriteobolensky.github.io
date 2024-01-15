@@ -141,5 +141,43 @@ html, body {
 
 /* Hide abstracts */
 #abstract_media {
-font-size:13px;
+font-size:12px;
+line-height: 1.2;
 }
+
+#abstract_homeward_bound {
+font-size:12px;
+line-height: 1.2;
+}
+
+#JMP {
+font-size:12px;
+line-height: 1.2;
+}
+
+#crop_diversity_pests {
+font-size:12px;
+line-height: 1.2;
+}
+
+#wading_out {
+font-size:12px;
+line-height: 1.2;
+}
+
+#candle_in_wind{
+font-size:12px;
+line-height: 1.2;
+}
+
+#underutilized_potential{
+font-size:12px;
+line-height: 1.2;
+}
+
+#infrastructure_disruption{
+font-size:12px;
+line-height: 1.2;
+}
+
+
