@@ -91,11 +91,9 @@ a {
   font-weight:bold;
 }
 
-
 a:hover {
 	color: rgb(115,130,118, 0.5);
 }
-
 
 
 /* Buttons on postcard */
@@ -119,65 +117,92 @@ html, body {
     height: 100%;
 }
 
+  
+.button-bar {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0px; /* Adjust the margin as needed */
+  margin-bottom: 5px;
+}
+  
+.button-bar a.button_that_looks_like_link {
+    font-weight: normal;
+    text-decoration: none;
+}
 
+  
 .button_that_looks_like_link {
   background: none!important;
   border: none;
   padding: 0!important;
-  /*optional*/
-  /*font-family: arial, sans-serif;*/
-  /*input has OS specific font-family*/
-  color: rgba(1,50,32, .8);
-  text-decoration: underline;
   cursor: pointer;
+  color:rgba(1,50,32, .8);
   width: fit-content;
-  font-size:14px;
-  font-family: "OPen-Sans", sans-serif;
+  font-size:0.9rem;
+  font:"OPen-Sans", sans-serif;
+  text-decoration: none;
 }
 
 .button_that_looks_like_link:hover {
       color:rgb(115,130,118, 0.5);
   }
+  
+
 
 /* Hide abstracts */
 #abstract_media {
 font-size:12px;
-line-height: 1.2;
+line-height: 1.4;
+text-align: justify;
 }
 
 #abstract_homeward_bound {
 font-size:12px;
-line-height: 1.2;
+line-height: 1.4;
+text-align: justify;
+
 }
 
 #JMP {
 font-size:12px;
-line-height: 1.2;
+line-height: 1.4;
+text-align: justify;
+
 }
 
 #crop_diversity_pests {
 font-size:12px;
-line-height: 1.2;
+line-height: 1.4;
+text-align: justify;
+
 }
 
 #wading_out {
 font-size:12px;
-line-height: 1.2;
+line-height: 1.4;
+text-align: justify;
+
 }
 
 #candle_in_wind{
 font-size:12px;
-line-height: 1.2;
+line-height: 1.4;
+text-align: justify;
+
 }
 
 #underutilized_potential{
 font-size:12px;
-line-height: 1.2;
+line-height: 1.4;
+text-align: justify;
+
 }
 
 #infrastructure_disruption{
 font-size:12px;
-line-height: 1.2;
+line-height: 1.4;
+text-align: justify;
+
 }
 
 
