@@ -19,8 +19,12 @@ function hide_buttons(abstract) {
 with Marco Tabellini and Charles Taylor (Submitted) 
 
 <div class="button-bar">
-<a href="https://www.nber.org/papers/w32035?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg18" class="button_that_looks_like_link">paper</a>
+<a href="content/working_papers/homeward_bound.pdf" class="button_that_looks_like_link">latest version </a>
+//
+<a href="https://www.nber.org/papers/w32035?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg18" class="button_that_looks_like_link">nber </a>
+//
 <a href="https://cepr.org/voxeu/columns/homeward-bound-how-migrants-seek-out-familiar-climates" class="button_that_looks_like_link">vox</a>
+//
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_homeward_bound')">abstract</button>
 </div>
 
@@ -74,6 +78,7 @@ The rise in political polarization over the recent years has fostered scrutiny o
 
 <div class="button-bar">
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3436477" class="button_that_looks_like_link">paper</a>
+//
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('wading_out')">abstract</button>
 </div>
 
@@ -85,6 +90,7 @@ Dar es Salaam is frequently affected by severe flooding causing destruction and 
 
 <div class="button-bar">
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3430507" class="button_that_looks_like_link">paper</a>
+//
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('candle_in_wind')">abstract</button>
 </div>
 
@@ -97,6 +103,7 @@ with Jun Rentschler, Martin Kornejew, Stéphane Hallegatte and Johannes Braese
 
 <div class="button-bar">
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3430509" class="button_that_looks_like_link">paper</a>
+//
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('underutilized_potential')">abstract</button>
 </div>
 <div id="underutilized_potential" style="display: none;">
@@ -108,6 +115,7 @@ This study constructs a microdata set of about 143,000 firms to estimate the mon
 
 <div class="button-bar">
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3430512" class="button_that_looks_like_link">paper</a>
+//
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('infrastructure_disruption')">abstract</button>
 </div>
 
