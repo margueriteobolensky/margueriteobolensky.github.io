@@ -35,8 +35,7 @@ with Marco Tabellini and Charles Taylor (Submitted)
 
 ### Works in Progress
 
-**Resilient Agriculture: a Dynamic Land Use Approach to Insurance Design in a Changing
-Climate** 
+**Climate Resilient Agriculture: A Dynamic Approach to Insurance Policy Design** 
 
 <div class="button-bar">
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('JMP')">abstract</button>
