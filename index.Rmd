@@ -1,20 +1,23 @@
 ---
 title: "Marguerite Obolensky"
 image: "images/index_picture.jpg"
+links:
+  - label: Email
+    url: "mailto:m.obolensky@columbia.edu"
 favicon: images/default-favicon.ico
 site: distill::distill_website
 output: 
   postcards::trestles
 ---
-I am a PhD candidate in [<span style="font-weight: normal">Sustainable Development at Columbia University</span>](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development) in the City of New York. 
+I am a PhD candidate in the [<span style="font-weight: normal">Sustainable Development program </span>](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development) at Columbia University's School of International and Public Affairs. 
 
-My research interests lie at the intersection of empirical industrial organization, environmental economics and political economy. 
+I work on questions in environmental economics and climate change adaptation using tools from empirical industrial organization and international trade. 
 
 I hold a Master in Environmental Economics and Climate Change from the London School of Economics and a Bachelor degree from Ecole Polytechnique, France. Prior to my PhD, I worked as a consultant in disaster risk management at the World Bank.
+
+I am on the 2024-2025 job market. 
 </br>
 </br>
-Contact: [m.obolensky@columbia.edu](m.obolensky@columbia.edu)
 </br>
-</br>
-</br>
+
 </br>

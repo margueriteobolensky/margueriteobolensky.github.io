@@ -15,34 +15,32 @@ function hide_buttons(abstract) {
 
 ### Working papers 
 
-**Homeward Bound: How Migrants Seek Out Familiar Climates**  
-with Marco Tabellini and Charles Taylor (Submitted) 
+**Homeward Bound: How Migrants Seek Out Familiar Climates [New Draft Coming Soon]**  
+with Marco Tabellini and Charles Taylor
 
-<div class="button-bar">
-<a href="content/working_papers/homeward_bound.pdf" class="button_that_looks_like_link">latest version </a>
-//
-<a href="https://www.nber.org/papers/w32035?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg18" class="button_that_looks_like_link">nber </a>
-//
-<a href="https://cepr.org/voxeu/columns/homeward-bound-how-migrants-seek-out-familiar-climates" class="button_that_looks_like_link">vox</a>
-//
-<button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_homeward_bound')">abstract</button>
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.nber.org/papers/w32035?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg18" class="button_that_looks_like_link">nber</a> /
+  <a href="https://cepr.org/voxeu/columns/homeward-bound-how-migrants-seek-out-familiar-climates" class="button_that_looks_like_link">vox</a> /
+  <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_homeward_bound')">abstract</button>
 </div>
 
 <div id="abstract_homeward_bound" style="display: none;">
-  This paper introduces the concept of "climate matching" as a driver of migration. Using historical censuses and administrative data, we document several novel findings. First, we show that climate strongly predicts the spatial distribution of international and domestic migrants in the US, both historically (1850-1940) and more recently (2011-2019), whereby movers select destinations with climates similar to those in their origin. Second, we analyze historical flows of German, Norwegian, and domestic migrants in the US and find that climate sorting also holds within countries. Third, we exploit variation in the long-run change in average US climate from 1900 to 2019 and find evidence of climate matching over time, with migration increasing between locations whose climate converged. Our results hold across time, geography, and migrant groups and are not driven by the persistence of ethnic networks or other confounders. We provide evidence for two complementary mechanisms: climate-specific human capital and climate as amenity. We then back out the marginal value of climate by: $i)$ exploiting the 1862 Homestead Act, a public policy that changed relative land prices; and, $ii)$ estimating the effect of climate mismatch on life expectancy. We conclude by projecting how climate change can reshape the geography of US internal migration throughout the 21st century.
+This paper examines the concept of ``climate matching'' in migration---the idea that migrants seek out destinations with familiar climates. Focusing on the US, we document that temperature distance between origin and destination strongly predicts the distribution of migrants across counties. This pattern holds for internal and international migration in the past (1850-1940) and today (2010-2021), and is not explained by the spatial correlation of climate or the persistence of ethnic networks. We provide suggestive evidence for two mechanisms driving climate matching: climate-specific skills and climate-as-amenity. Then, we study the implications of climate matching for migrants. Leveraging plausibly exogenous variation in climate mismatch, we document that climate distance reduces life expectancy among immigrants, and increases mortality rates for their US-born children. We calculate the implied mortality cost of a 1\degree{}C change in climate to be \$2,625-2,700.%, which equates to 3-5\% of GDP if applied to all Americans.
+
 </div>
 
 
 ### Works in Progress
 
-**Climate Resilient Agriculture: A Dynamic Approach to Insurance Policy Design** 
+**Managing Climate Risk: Designing Crop Insurance Subsidies for a Changing Climate [JMP]** 
 
 <div class="button-bar">
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('JMP')">abstract</button>
 </div>
 
 <div id="JMP" style="display: none;">
-Weather variability represents a large threat to agricultural yields. In response, crop insurance has emerged as a crucial policy tool in the United States, offering premium subsidies to farmers in counties with historical crop cultivation. This reduces the program's exposure to climate-related risks by not insuring farmers in regions where sufficient data are lacking. However, it also contributes to locking farmers in current cropland areas. With climate change shifting suitable growing areas, farmers will be faced with the challenge of spatially reallocating agricultural production. I combine parcel-level land use data and county-level insurance data obtained from the Risk Management Agency with a dynamic model of crop choice and insurance take up to study the trade-off between managing actuarial costs and adapting crop insurance to facilitate gradual crop migration.
+Governments increasingly subsidize insurance against weather shocks in response to growing climate risks, but these subsidies may reduce incentives for long-term adaptation. This paper quantifies the impact of crop insurance subsidies on U.S. agricultural adaptation using a dynamic land use and insurance choices model, incorporating climate projections and crop yield models for the three main U.S. crops alongside detailed micro-data on farmers' decisions. Current spatially uniform subsidies allocate most funds to high-risk regions, reducing welfare by encouraging farming in areas more susceptible to climate shocks. In contrast, targeted subsidies, which adjust based on regional climate risk trends, improve welfare by reducing production volatility. However, the optimal policy, which removes subsidies from high-risk areas and doubles them in low-risk regions, risks regional disparities and drastically reduces crop diversity by encouraging corn production. These results underscore the importance of aligning agricultural policies with climate dynamics to promote sustainable land use and minimize climate-related welfare losses.
+
 </div>
 
 <br> 
@@ -77,7 +75,7 @@ The rise in political polarization over the recent years has fostered scrutiny o
 
 <div class="button-bar">
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3436477" class="button_that_looks_like_link">paper</a>
-//
+/
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('wading_out')">abstract</button>
 </div>
 
@@ -89,7 +87,7 @@ Dar es Salaam is frequently affected by severe flooding causing destruction and 
 
 <div class="button-bar">
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3430507" class="button_that_looks_like_link">paper</a>
-//
+/
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('candle_in_wind')">abstract</button>
 </div>
 
@@ -102,7 +100,7 @@ with Jun Rentschler, Martin Kornejew, Stéphane Hallegatte and Johannes Braese
 
 <div class="button-bar">
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3430509" class="button_that_looks_like_link">paper</a>
-//
+/
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('underutilized_potential')">abstract</button>
 </div>
 <div id="underutilized_potential" style="display: none;">
@@ -114,7 +112,7 @@ This study constructs a microdata set of about 143,000 firms to estimate the mon
 
 <div class="button-bar">
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3430512" class="button_that_looks_like_link">paper</a>
-//
+/
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('infrastructure_disruption')">abstract</button>
 </div>
 
