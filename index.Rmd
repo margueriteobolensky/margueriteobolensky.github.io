@@ -11,7 +11,7 @@ output:
 ---
 I am a PhD candidate in the [<span style="font-weight: normal">Sustainable Development program </span>](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development) at Columbia University's School of International and Public Affairs. 
 
-I work on questions in environmental economics and climate change adaptation using tools from empirical industrial organization and international trade. 
+I work on questions in environmental economics and climate change adaptation using tools from empirical industrial organization. 
 
 I hold a Master's degree in Environmental Economics and Climate Change from the London School of Economics and a Bachelor's degree from Ecole Polytechnique, France. Prior to my PhD, I worked as a consultant in disaster risk management at the World Bank.
 
