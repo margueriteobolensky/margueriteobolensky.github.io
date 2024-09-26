@@ -27,6 +27,7 @@ html {
   --navbar-font:     "Monserrat", sans-serif;  /* websites + blogs only */
 }
 
+
 /*-- ARTICLE METADATA --*/
 d-byline {
   --heading-size:    0.6rem;
@@ -169,55 +170,55 @@ html, body {
 
 /* Hide abstracts */
 #abstract_media {
-font-size:12px;
+font-size:14px;
 line-height: 1.4;
 text-align: justify;
 }
 
 #abstract_homeward_bound {
-font-size:12px;
+font-size:14px;
 line-height: 1.4;
 text-align: justify;
 
 }
 
 #JMP {
-font-size:12px;
+font-size:14px;
 line-height: 1.4;
 text-align: justify;
 
 }
 
 #crop_diversity_pests {
-font-size:12px;
+font-size:14px;
 line-height: 1.4;
 text-align: justify;
 
 }
 
 #wading_out {
-font-size:12px;
+font-size:14px;
 line-height: 1.4;
 text-align: justify;
 
 }
 
 #candle_in_wind{
-font-size:12px;
+font-size:14px;
 line-height: 1.4;
 text-align: justify;
 
 }
 
 #underutilized_potential{
-font-size:12px;
+font-size:14px;
 line-height: 1.4;
 text-align: justify;
 
 }
 
 #infrastructure_disruption{
-font-size:12px;
+font-size:14px;
 line-height: 1.4;
 text-align: justify;
 
