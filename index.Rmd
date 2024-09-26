@@ -11,6 +11,8 @@ site: distill::distill_website
 output: 
   postcards::trestles
  
+ 
+
 ---
 Welcome! I am a PhD candidate in the [<span style="font-weight: normal">Sustainable Development program </span>](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development) at Columbia University's School of International and Public Affairs. 
 
@@ -23,5 +25,4 @@ I am on the 2024-2025 job market.
 </br>
 </br>
 </br>
-
 
