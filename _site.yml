@@ -4,13 +4,5 @@ favicon: images/default-favicon.ico
 description: |
   Marguerite Obolensky website
 output_dir: "docs"
-navbar:
-  right:
-    - text: "research"
-      href: research.html
-    - text: "cv"
-      href: "content/CV_obolensky.pdf"
-    - text: "contact me"
-      href: "mailto:m.obolensky@columbia.edu"
 theme: index.css
 output: distill::distill_article
