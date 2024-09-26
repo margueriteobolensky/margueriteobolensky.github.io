@@ -34,10 +34,10 @@ with Marco Tabellini and Charles Taylor
 <div style="display: flex; gap: 10px;">
   <a href="https://www.nber.org/papers/w32035?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg18" class="button_that_looks_like_link">NBER</a> /
   <a href="https://cepr.org/voxeu/columns/homeward-bound-how-migrants-seek-out-familiar-climates" class="button_that_looks_like_link">Vox</a> /
-  <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('Abstract_homeward_bound')">Abstract</button>
+  <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_homeward_bound')">Abstract</button>
 </div>
 
-<div id="Abstract_homeward_bound" style="display: none;">
+<div id="abstract_homeward_bound" style="display: none;">
 This paper examines the concept of ``climate matching'' in migration---the idea that migrants seek out destinations with familiar climates. Focusing on the US, we document that temperature distance between origin and destination strongly predicts the distribution of migrants across counties. This pattern holds for internal and international migration in the past (1850-1940) and today (2010-2021), and is not explained by the spatial correlation of climate or the persistence of ethnic networks. We provide suggestive evidence for two mechanisms driving climate matching: climate-specific skills and climate-as-amenity. Then, we study the implications of climate matching for migrants. Leveraging plausibly exogenous variation in climate mismatch, we document that climate distance reduces life expectancy among immigrants, and increases mortality rates for their US-born children. We calculate the implied mortality cost of a 1\degree{}C change in climate to be \$2,625-2,700.%, which equates to 3-5\% of GDP if applied to all Americans.
 
 </div>
@@ -57,11 +57,11 @@ We provide evidence of the role of local agricultural crop diversity, measured b
 **News Media Concentration and Content Diversity** <br/> with Pierre Bodéré and Nicolas Longuet Marx
 
 <div class="button-bar">
-<button class="button_that_looks_like_link" role="button" onclick="hide_buttons('Abstract_media')">Abstract</button>
+<button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_media')">Abstract</button>
 </div>
 
 
-<div id="Abstract_media" style="display: none;">
+<div id="abstract_media" style="display: none;">
 The rise in political polarization over the recent years has fostered scrutiny of the structure of the news industry’ s influence on political outcomes. How should policymakers regulate news producers when they value news diversity and large publishers shape the ideological landscape? We develop an empirical model of competition for readership and advertisers between news producers. We recover the topic content and ideological positions of 200 major U.S. daily newspapers using recent advances in Natural Language Processing on millions of published articles. We find that over the period 2007-2017, the median newspaper in our sample got closer to the ideology of the Democratic party. Second, we embed these topics and ideal points in a demand model for differentiated products with heterogeneous readers. Our model shows that rich readers lean democrat and consume more news about social and political questions while the elderly are more conservative and care more about local news. Using the estimated demand model and data on advertising contracts and readership, we can recover the cost of producing each type of content. Given this model of news supply, we intend to use our framework to provide recommendations on antitrust rules weighing both consumer welfare and ideological diversity.
 </div>
 <br> 
