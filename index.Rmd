@@ -10,10 +10,8 @@ favicon: images/default-favicon.ico
 site: distill::distill_website
 output: 
   postcards::trestles
- 
- 
-
 ---
+
 Welcome! I am a PhD candidate in the [<span style="font-weight: normal">Sustainable Development program </span>](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development) at Columbia University's School of International and Public Affairs. 
 
 I work on questions in environmental economics and climate change adaptation using tools from empirical industrial organization. 

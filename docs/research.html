@@ -2203,11 +2203,43 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --navbar-font:     "Monserrat", sans-serif;  /* websites + blogs only */
   }
 
+  /* Base link styling */
+  a {
+      color: rgba(1, 50, 32, .8);
+      text-decoration: none;
+      font-weight: bold;
+  }
+
+  /* For desktop and larger screens */
+  @media (min-width: 768px) {
+      a {
+          font-size: 1rem; /* Normal size for larger screens */
+          padding: 10px;
+      }
+  }
+
+  /* For mobile devices (screens smaller than 768px) */
+  @media (max-width: 767px) {
+      a {
+          font-size: 0.8rem; /* Smaller font size for mobile */
+          padding: 5px;      /* Reduce padding to make links less bulky */
+      }
+
+      .left-column img {
+          width: 100px; /* Adjust image size on mobile to fit better */
+          height: 100px;
+      }
+
+      h1 {
+          font-size: 1.5rem; /* Smaller title font for mobile */
+      }
+  }
+
 
   /*-- ARTICLE METADATA --*/
   d-byline {
     --heading-size:    0.6rem;
-    --heading-color:   rgba(0, 0, 0, 0.5);
+    --heading-color:   rgba(0, 0, 0, 0.8);
     --body-size:       0.9rem;
     --body-color:      rgba(0, 0, 0, 0.8);
   }
@@ -2221,9 +2253,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /*-- ARTICLE APPENDIX --*/
   d-appendix {
     --heading-size:    15px;
-    --heading-color:   rgba(0, 0, 0, 0.65);
+    --heading-color:   rgba(0, 0, 0, 0.8);
     --text-size:       0.8em;
-    --text-color:      rgba(0, 0, 0, 0.5);
+    --text-color:      rgba(0, 0, 0, 0.8);
   }
 
   /*-- WEBSITE HEADER + FOOTER --*/
@@ -2256,6 +2288,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   h3 {
     font-size: 10px;
+    color: rgba(0, 0, 0, 0.8);
+
   }
 
   p {
@@ -2285,7 +2319,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   }
 
   b, strong {
-     color: rgba(0, 49, 60, 1);
+     color: rgba(0, 0, 0, 0.8);
   }
 
   .button_link {
