@@ -14,6 +14,7 @@ function hide_buttons(abstract) {
 </script>
 
 
+## Working Papers
 
 
 **Protect or Prepare: Designing Crop Insurance Subsidies for a Changing Climate [JMP]** 
@@ -43,6 +44,8 @@ This paper examines the concept of ``climate matching'' in migration---the idea 
 </div>
 <br> 
 
+## Work In Progress
+
 **Local Crop Species Diversity and Pest Diffusion: Evidence from the US Census of Agriculture** <br/>  with Tristan du Puy
 
 <div class="button-bar">
@@ -66,7 +69,7 @@ The rise in political polarization over the recent years has fostered scrutiny o
 </div>
 <br> 
 
-### Pre-Doctoral Work
+## Pre-Doctoral Work
 
 **Wading Out the Storm: The Role of Poverty in Exposure, Vulnerability and Resilience to Floods in Dar Es Salaam**  <br/> with Alvina Erman, Mersedeh Tariverdi, Xiaomeng Chen, Rose Vincent, Silvia Malgioglio, Jun Rentschler, Stéphane Hallegatte, Nobuo Yoshida 
 

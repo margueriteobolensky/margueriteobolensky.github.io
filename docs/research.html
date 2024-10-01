@@ -2178,9 +2178,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   /* Optional: embed custom fonts here with `@import`          */
   /* This must remain at the top of this file.                 */
-  @import url('https://fonts.googleapis.com/css2?family=Open+Sans');
-  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
-  @import url('https://fonts.googleapis.com/css2?family=Lato');
+  /*@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+  @import url('https://fonts.googleapis.com/css2?family=Monserrat');
+  @import url('https://fonts.googleapis.com/css2?family=Lato'); */
 
 
   html {
@@ -2191,11 +2191,11 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --aside-size:      12px;
     --fig-cap-size:    13px;
     /*-- Main font colors --*/
-    --title-color:     rgba(1, 50, 32, .8);
-    --header-color:    rgba(1, 50, 32, .8);
+    --title-color:     rgba(0, 49, 60, 1);
+    --header-color:    rgba(0, 49, 60, 1);
     --body-color:      rgba(0, 0, 0, 0.8);
-    --aside-color:     rgba(1, 50, 32, .8);
-    --fig-cap-color:   rgba(1, 50,  32, .8);
+    --aside-color:     rgba(0, 49, 60, 1);
+    --fig-cap-color:   rgba(0, 49, 60, 1);
     --hover-color:     rgba(0, 49, 60, 0.4);
     /*-- Specify custom fonts ~~~ must be imported above   --*/
     --heading-font:    "Monserrat", sans-serif;
@@ -2203,43 +2203,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --navbar-font:     "Monserrat", sans-serif;  /* websites + blogs only */
   }
 
-  /* Base link styling */
-  a {
-      color: rgba(1, 50, 32, .8);
-      text-decoration: none;
-      font-weight: bold;
-  }
-
-  /* For desktop and larger screens */
-  @media (min-width: 768px) {
-      a {
-          font-size: 1rem; /* Normal size for larger screens */
-          padding: 10px;
-      }
-  }
-
-  /* For mobile devices (screens smaller than 768px) */
-  @media (max-width: 767px) {
-      a {
-          font-size: 0.8rem; /* Smaller font size for mobile */
-          padding: 5px;      /* Reduce padding to make links less bulky */
-      }
-
-      .left-column img {
-          width: 100px; /* Adjust image size on mobile to fit better */
-          height: 100px;
-      }
-
-      h1 {
-          font-size: 1.5rem; /* Smaller title font for mobile */
-      }
-  }
-
-
   /*-- ARTICLE METADATA --*/
   d-byline {
     --heading-size:    0.6rem;
-    --heading-color:   rgba(0, 0, 0, 0.8);
+    --heading-color:   rgba(0, 0, 0, 0.5);
     --body-size:       0.9rem;
     --body-color:      rgba(0, 0, 0, 0.8);
   }
@@ -2253,9 +2220,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   /*-- ARTICLE APPENDIX --*/
   d-appendix {
     --heading-size:    15px;
-    --heading-color:   rgba(0, 0, 0, 0.8);
+    --heading-color:   rgba(0, 0, 0, 0.65);
     --text-size:       0.8em;
-    --text-color:      rgba(0, 0, 0, 0.8);
+    --text-color:      rgba(0, 0, 0, 0.5);
   }
 
   /*-- WEBSITE HEADER + FOOTER --*/
@@ -2264,10 +2231,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   .distill-site-header {
     --font-family:      'Montserrat', serif;
     --title-size:       21px;
-    --text-color:       rgba(1,50,32, .8);
+    --text-color:       rgba(0, 49, 60, 1);
     --text-size:        18px;
     --hover-color:      rgb(115,130,118, 0.5);
-    --bkgd-color:       white;
+    --bkgd-color:       rgba(249, 250, 247, 0.8);
     font-variant: small-caps;
   }
 
@@ -2275,21 +2242,19 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --text-color:       rgba(10, 10, 10, 0.8);
     --text-size:        15px;
     --hover-color:      white;
-    --bkgd-color:       white;
+    --bkgd-color:       rgba(249, 250, 247, 0.8); 
   }
 
   /*-- Additional custom styles --*/
   /* Add any additional CSS rules below                      */
 
   h1, h2, h3 {
-    color: rgba(1, 50, 32, .8);
+    color: rgba(0, 49, 60, 1);
     font-variant: small-caps;
   }
 
   h3 {
     font-size: 10px;
-    color: rgba(0, 0, 0, 0.8);
-
   }
 
   p {
@@ -2297,13 +2262,39 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   }
 
   a {
-  	color: rgba(1,50,32, .8);
+  	color: rgba(0, 49, 60, 1);
   	text-decoration: none;
     font-weight:bold;
   }
 
+
   a:hover {
   	color: rgb(115,130,118, 0.5);
+  }
+
+  /* Multicolumns Layout */
+  .col2 {
+      columns: 2 200px;         /* number of columns and width in pixels*/
+      -webkit-columns: 2 200px; /* chrome, safari */
+      -moz-columns: 2 200px;    /* firefox */
+    }
+
+  /* Buttons on postcard */
+  .btn-outline-dark {
+      color: rgba(0, 49, 60, 1);
+  }
+
+  .btn-outline-dark:hover {
+      background-color: rgba(0, 49, 60, 1);
+      color: #FFFFFF;
+  }
+
+  body {
+    background-color: rgba(249, 250, 247, 0.8);
+  }
+
+  html, body {
+      height: 100%;
   }
 
 
@@ -2365,7 +2356,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     border: none;
     padding: 0!important;
     cursor: pointer;
-    color:rgba(1,50,32, .8);
+    color: rgba(0, 49, 60, 1);
     width: fit-content;
     font-size:0.9rem;
     font:"OPen-Sans", sans-serif;
@@ -2373,7 +2364,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   }
 
   .button_that_looks_like_link:hover {
-        color:rgb(115,130,118, 0.5);
+        color:rgb(115, 130, 118, 0.5);
     }
     
 
@@ -2648,6 +2639,7 @@ function hide_buttons(abstract) {
     }
 }
 </script>
+<h2 id="working-papers">Working Papers</h2>
 <p><strong>Protect or Prepare: Designing Crop Insurance Subsidies for a Changing Climate [JMP]</strong></p>
 <div class="button-bar">
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons(&#39;JMP&#39;)">
@@ -2669,6 +2661,7 @@ with Marco Tabellini and Charles Taylor</p>
 <p>This paper examines the concept of ``climate matching’’ in migration—the idea that migrants seek out destinations with familiar climates. Focusing on the US, we document that temperature distance between origin and destination strongly predicts the distribution of migrants across counties. This pattern holds for internal and international migration in the past (1850-1940) and today (2010-2021), and is not explained by the spatial correlation of climate or the persistence of ethnic networks. We provide suggestive evidence for two mechanisms driving climate matching: climate-specific skills and climate-as-amenity. Then, we study the implications of climate matching for migrants. Leveraging plausibly exogenous variation in climate mismatch, we document that climate distance reduces life expectancy among immigrants, and increases mortality rates for their US-born children. We calculate the implied mortality cost of a 1C change in climate to be $2,625-2,700.%, which equates to 3-5% of GDP if applied to all Americans.</p>
 </div>
 <p><br></p>
+<h2 id="work-in-progress">Work In Progress</h2>
 <p><strong>Local Crop Species Diversity and Pest Diffusion: Evidence from the US Census of Agriculture</strong> <br/> with Tristan du Puy</p>
 <div class="button-bar">
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons(&#39;crop_diversity_pests&#39;)">
@@ -2689,7 +2682,7 @@ Abstract
 <p>The rise in political polarization over the recent years has fostered scrutiny of the structure of the news industry’ s influence on political outcomes. How should policymakers regulate news producers when they value news diversity and large publishers shape the ideological landscape? We develop an empirical model of competition for readership and advertisers between news producers. We recover the topic content and ideological positions of 200 major U.S. daily newspapers using recent advances in Natural Language Processing on millions of published articles. We find that over the period 2007-2017, the median newspaper in our sample got closer to the ideology of the Democratic party. Second, we embed these topics and ideal points in a demand model for differentiated products with heterogeneous readers. Our model shows that rich readers lean democrat and consume more news about social and political questions while the elderly are more conservative and care more about local news. Using the estimated demand model and data on advertising contracts and readership, we can recover the cost of producing each type of content. Given this model of news supply, we intend to use our framework to provide recommendations on antitrust rules weighing both consumer welfare and ideological diversity.</p>
 </div>
 <p><br></p>
-<h3 id="pre-doctoral-work">Pre-Doctoral Work</h3>
+<h2 id="pre-doctoral-work">Pre-Doctoral Work</h2>
 <p><strong>Wading Out the Storm: The Role of Poverty in Exposure, Vulnerability and Resilience to Floods in Dar Es Salaam</strong> <br/> with Alvina Erman, Mersedeh Tariverdi, Xiaomeng Chen, Rose Vincent, Silvia Malgioglio, Jun Rentschler, Stéphane Hallegatte, Nobuo Yoshida</p>
 <div class="button-bar">
 <p><a href="https://papers.ssrn.com/sol3/papers.cfm?Abstract_id=3436477" class="button_that_looks_like_link">Paper</a>
