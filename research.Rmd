@@ -32,8 +32,8 @@ Governments increasingly subsidize insurance against weather shocks in response 
 **Homeward Bound: How Migrants Seek Out Familiar Climates**  
 with Marco Tabellini and Charles Taylor
 
-<div style="display: flex; gap: 10px;">
-  <a href="content/working_papers/migration_climate_similarity_posted.pdf" class="button_that_looks_like_link">Latest Version</a> /
+<div class="button-bar">
+  <a href="content/working_papers/migration_climate_similarity_posted.pdf " class="button_that_looks_like_link">Latest Version</a> /
   <a href="https://www.nber.org/papers/w32035?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg18" class="button_that_looks_like_link">NBER</a> /
   <a href="https://cepr.org/voxeu/columns/homeward-bound-how-migrants-seek-out-familiar-climates" class="button_that_looks_like_link">Vox</a> /
   <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_homeward_bound')">Abstract</button>
