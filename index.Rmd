@@ -5,7 +5,7 @@ links:
   - label: Email
     url: "mailto:m.obolensky@columbia.edu"
   - label: CV
-    url: "content/CV_obolensky.pdf"
+    url: "content/cv_obolensky.pdf"
 favicon: images/default-favicon.ico
 site: distill::distill_website
 output: 
