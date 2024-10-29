@@ -17,14 +17,15 @@ function hide_buttons(abstract) {
 ## Job Market Paper
 
 
-**Protect or Prepare: Designing Crop Insurance Subsidies for a Changing Climate [COMING SOON]** 
+**Protect or Prepare? Crop Insurance and Adaptation in a Changing Climate [COMING SOON]** 
 
 <div class="button-bar">
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('JMP')">Abstract</button>
 </div>
 
 <div id="JMP" style="display: none;">
-As climate risks intensify, governments increasingly subsidize insurance against weather shocks. While these subsidies improve financial protection against extreme weather events, they may reduce incentives for long-term adaptation to climate change. This paper studies how U.S. crop insurance subsidies impact agricultural adaptation. I develop and estimate a dynamic land use model that incorporates beliefs on climate, crop insurance, and government subsidies. Estimation combines data on weather shocks, agricultural outcomes, and farmers' planting and insurance decisions. I use the model to simulate future paths of agricultural production under alternative designs of crop insurance subsidies. Under the current design, funds increasingly flow to regions with growing climate risks. As a result, farmers in riskier areas are more resistant to adaptation, which leads to higher public spending and more volatile output. I show that targeted subsidies---which adjust generosity based on regional climate risk trends---foster stability of agricultural production by encouraging crop switching patterns adapted to climate risk and increase welfare by 0.6 percentage points relative to the total value of agricultural output. Despite achieving better outcomes on aggregate, targeting penalizes farmers in Southern states, which may lead to political resistance. I then consider an alternative in which subsidies are redistributed *within states*. This policy achieves 15% of the benefits obtainable under unconstrained targeting.
+As climate risks intensify, governments increasingly subsidize insurance against weather shocks. While these subsidies improve financial protection against extreme weather events, they may reduce incentives for long-term adaptation to climate change. In this paper I study how U.S. crop insurance subsidies impact agricultural adaptation. I develop and estimate a dynamic land use model that incorporates beliefs on climate, crop insurance, and government subsidies.  I use the model to simulate future paths of production under alternative designs of crop insurance subsidies. Under the current design, funds increasingly flow to high-risk regions. As a result, farmers in riskier areas are more resistant to adaptation, which leads to higher public spending and more volatile output. I show that targeted subsidies---which adjust generosity based on regional climate trends---foster stability of agricultural production by encouraging crop switching patterns adapted to climate risk and increase welfare by 0.6 percentage points relative to the total value of agricultural output. Despite achieving better outcomes on aggregate, targeting penalizes farmers in Southern states, which may lead to political resistance. I then consider an alternative in which subsidies are redistributed within states. This policy achieves 15% of the benefits obtainable under unconstrained targeting.
+
 </div>
 </br>
 
