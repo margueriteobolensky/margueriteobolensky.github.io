@@ -4,8 +4,8 @@ image: "images/index_picture.jpg"
 links:
   - label: Email
     url: "mailto:m.obolensky@columbia.edu"
-  - label: CV
-    href: "content/cv_obolensky.pdf"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=cljT4hUAAAAJ&hl=en&oi=ao"
 favicon: images/default-favicon.ico
 site: distill::distill_website
 output: 
