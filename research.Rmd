@@ -37,23 +37,14 @@ As climate risks intensify, governments increasingly subsidize insurance against
 with Marco Tabellini and Charles Taylor
 
 <div class="button-bar">
-  <a href="content/working_papers/migration_climate_similarity_posted.pdf " class="button_that_looks_like_link">Latest Version</a> /
+  <a href="https://drive.google.com/file/d/11uSqCe0v0tCWvDNjQDjqEEOngoFAt5pf/edit" class="button_that_looks_like_link">Latest Version</a> /
   <a href="https://www.nber.org/papers/w32035?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg18" class="button_that_looks_like_link">NBER</a> /
   <a href="https://cepr.org/voxeu/columns/homeward-bound-how-migrants-seek-out-familiar-climates" class="button_that_looks_like_link">Vox</a> /
   <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_homeward_bound')">Abstract</button>
 </div>
 <div id="abstract_homeward_bound" style="display: none;">
-This paper examines the concept of “climate matching” in migration—the idea that
-migrants seek out destinations with familiar climates. Focusing on the US, we document
-that temperature distance between origin and destination predicts the distribution of
-migrants across counties. This pattern holds for internal and international migration in
-the past (1850-1940) and today (2011-2019), and is not explained by the spatial correlation
-of climate or the persistence of ethnic networks. We provide suggestive evidence for
-two mechanisms driving climate matching: climate-specific skills and climate-as-amenity.
-Then, we study the implications of climate matching for migrants. Leveraging plausibly
-exogenous variation in climate mismatch, we document that climate distance reduces life
-expectancy among immigrants, and increases mortality rates for their US-born children.
-We calculate an individual-level mortality cost of a 1°C change in climate to be $5,325.
+This paper examines the concept of “climate matching” in migration---the idea that migrants seek out destinations with familiar climates. Focusing on the US, we document that temperature distance between origin and destination predicts the distribution of migrants across counties. This pattern holds for internal and international migration in the past (1850-1940) and today (2011-2019), and is not explained by the spatial correlation of climate or the persistence of ethnic networks. We provide suggestive evidence for two mechanisms driving climate matching: climate-specific skills and climate-as-amenity. Then, we study the implications of climate matching for migrants. Leveraging plausibly exogenous variation in climate mismatch, we document that climate distance reduces life expectancy among immigrants, and increases mortality rates for their US-born children. We calculate an individual-level mortality cost of a  1°C change in climate to be \$5,250.
+
 </div>
 <br> 
 
