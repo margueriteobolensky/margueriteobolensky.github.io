@@ -17,7 +17,7 @@ function hide_buttons(abstract) {
 ## Job Market Paper
 
 
-**Protect or Prepare? Crop Insurance and Adaptation in a Changing Climate** 
+**Protect or Prepare? Crop Insurance and Adaptation in a Changing Climate [NEW!] ** 
 
 <div class="button-bar">
   <a href="content/working_papers/obolensky_crop_insurance_JMP.pdf " class="button_that_looks_like_link">Latest Version</a> /
@@ -33,7 +33,7 @@ As climate risks intensify, governments increasingly subsidize insurance against
 
 ## Working papers and work in progress
 
-**Homeward Bound: How Migrants Seek Out Familiar Climates**  
+**Homeward Bound: How Migrants Seek Out Familiar Climates [NEW VERSION COMING SOON] **  
 with Marco Tabellini and Charles Taylor
 
 <div class="button-bar">
