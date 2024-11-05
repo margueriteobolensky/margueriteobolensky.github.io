@@ -17,7 +17,7 @@ function hide_buttons(abstract) {
 ## Job Market Paper
 
 
-**Protect or Prepare? Crop Insurance and Adaptation in a Changing Climate [NEW!] ** 
+**Protect or Prepare? Crop Insurance and Adaptation in a Changing Climate** *[New!]* 
 
 <div class="button-bar">
   <a href="content/working_papers/obolensky_crop_insurance_JMP.pdf " class="button_that_looks_like_link">Latest Version</a> /
@@ -33,8 +33,8 @@ As climate risks intensify, governments increasingly subsidize insurance against
 
 ## Working papers and work in progress
 
-**Migration, Climate Similarity, and the Consequences of Climate Mismatch [NEW VERSION!] **  
-with Marco Tabellini and Charles Taylor
+**Migration, Climate Similarity, and the Consequences of Climate Mismatch  **  
+with Marco Tabellini and Charles Taylor *[New version submitted!]*
 
 <div class="button-bar">
   <a href="https://drive.google.com/file/d/11uSqCe0v0tCWvDNjQDjqEEOngoFAt5pf/edit" class="button_that_looks_like_link">Latest Version</a> /
