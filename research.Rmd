@@ -34,11 +34,11 @@ As climate risks intensify, governments increasingly subsidize insurance against
 ## Working papers and work in progress
 
 **Migration, Climate Similarity, and the Consequences of Climate Mismatch  **  
-with Marco Tabellini and Charles Taylor *[New version submitted!]*
+with Marco Tabellini and Charles Taylor *[Submitted!]*
 
 <div class="button-bar">
   <a href="https://drive.google.com/file/d/11uSqCe0v0tCWvDNjQDjqEEOngoFAt5pf/edit" class="button_that_looks_like_link">Latest Version</a> /
-  <a href="https://www.nber.org/papers/w32035?utm_campaign=ntwh&utm_medium=email&utm_source=ntwg18" class="button_that_looks_like_link">NBER</a> /
+  <a href="https://www.nber.org/papers/w32035" class="button_that_looks_like_link">NBER</a> /
   <a href="https://cepr.org/voxeu/columns/homeward-bound-how-migrants-seek-out-familiar-climates" class="button_that_looks_like_link">Vox</a> /
   <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_homeward_bound')">Abstract</button>
 </div>
