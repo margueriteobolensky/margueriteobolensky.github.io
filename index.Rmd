@@ -6,6 +6,8 @@ links:
     url: "mailto:m.obolensky@columbia.edu"
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=cljT4hUAAAAJ&hl=en&oi=ao"
+  - label: CV
+    href: "content/CV_obolensky.pdf"
 favicon: images/default-favicon.ico
 site: distill::distill_website
 output: 
@@ -14,11 +16,19 @@ output:
 
 Welcome! I am a PhD candidate in the [<span style="font-weight: normal">Sustainable Development program </span>](https://www.sipa.columbia.edu/academics/programs/phd-sustainable-development) at Columbia University's School of International and Public Affairs. 
 
-I work on questions in environmental economics and climate change adaptation using tools from empirical industrial organization. 
 
-I hold a Master's degree in Environmental Economics and Climate Change from the London School of Economics and a Bachelor's degree from Ecole Polytechnique, France. Prior to my PhD, I worked as a consultant in disaster risk management at the World Bank.
+
+I work on questions in environmental economics and climate change adaptation using tools from empirical industrial organization. In my [JMP](https://margueriteobolensky.github.io/content/working_papers/obolensky_crop_insurance_JMP.pdf), I study the interaction between crop insurance provision policy and adaptation to climate change in the U.S. You can find more research projects [here](https://margueriteobolensky.github.io/research.html). 
 
 I am on the 2024-2025 job market. 
+
+<!---
+You can find my JMP [here](https://margueriteobolensky.github.io/content/working_papers/obolensky_crop_insurance_JMP.pdf) and 
+--->
+<!---
+I hold a Master's degree in Environmental Economics and Climate Change from the London School of Economics and a Bachelor's degree from Ecole Polytechnique, France. Prior to my PhD, I worked as a consultant in disaster risk management at the World Bank.
+--->
+
 </br>
 </br>
 </br>

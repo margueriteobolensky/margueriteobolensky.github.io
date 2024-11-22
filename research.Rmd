@@ -17,10 +17,9 @@ function hide_buttons(abstract) {
 ## Job Market Paper
 
 
-**Protect or Prepare? Crop Insurance and Adaptation in a Changing Climate** *[New!]* 
+**[Protect or Prepare? Crop Insurance and Adaptation in a Changing Climate](content/working_papers/obolensky_crop_insurance_JMP.pdf)** 
 
 <div class="button-bar">
-  <a href="content/working_papers/obolensky_crop_insurance_JMP.pdf " class="button_that_looks_like_link">Latest Version</a> /
   <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('JMP')">Abstract</button>
 </div>
 
@@ -33,11 +32,10 @@ As climate risks intensify, governments increasingly subsidize insurance against
 
 ## Working papers and work in progress
 
-**Migration, Climate Similarity, and the Consequences of Climate Mismatch  **  
-with Marco Tabellini and Charles Taylor *[Submitted!]*
+**[Migration, Climate Similarity, and the Consequences of Climate Mismatch](https://drive.google.com/file/d/11uSqCe0v0tCWvDNjQDjqEEOngoFAt5pf/edit)  **  
+with Marco Tabellini and Charles Taylor *[Submitted]*
 
 <div class="button-bar">
-  <a href="https://drive.google.com/file/d/11uSqCe0v0tCWvDNjQDjqEEOngoFAt5pf/edit" class="button_that_looks_like_link">Latest Version</a> /
   <a href="https://www.nber.org/papers/w32035" class="button_that_looks_like_link">NBER</a> /
   <a href="https://cepr.org/voxeu/columns/homeward-bound-how-migrants-seek-out-familiar-climates" class="button_that_looks_like_link">Vox</a> /
   <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('abstract_homeward_bound')">Abstract</button>
