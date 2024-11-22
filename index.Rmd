@@ -7,7 +7,7 @@ links:
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=cljT4hUAAAAJ&hl=en&oi=ao"
   - label: CV
-    href: "content/CV_obolensky.pdf"
+    href: "https://margueriteobolensky.github.io/content/CV_obolensky.pdf"
 favicon: images/default-favicon.ico
 site: distill::distill_website
 output: 
