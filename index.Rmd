@@ -18,7 +18,8 @@ Welcome! I am a PhD candidate in the [<span style="font-weight: normal">Sustaina
 
 
 
-I work on questions in environmental economics and climate change adaptation using tools from empirical industrial organization. In my [JMP](https://margueriteobolensky.github.io/content/working_papers/obolensky_crop_insurance_JMP.pdf), I study the interaction between crop insurance provision policy and adaptation to climate change in the U.S. You can find more research projects [here](https://margueriteobolensky.github.io/research.html). 
+I work on questions in environmental economics and climate change adaptation using tools from empirical industrial organization. 
+In my [job market paper](https://margueriteobolensky.github.io/content/working_papers/obolensky_crop_insurance_JMP.pdf), I study the interaction between crop insurance provision policy and adaptation to climate change in the U.S. You can find more research projects [here](https://margueriteobolensky.github.io/research.html). 
 
 I am on the 2024-2025 job market. 
 
