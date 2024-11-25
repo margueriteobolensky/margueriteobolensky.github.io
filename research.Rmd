@@ -32,7 +32,7 @@ As climate risks intensify, governments increasingly subsidize insurance against
 
 ## Working papers and work in progress
 
-**[Migration, Climate Similarity, and the Consequences of Climate Mismatch](https://drive.google.com/file/d/11uSqCe0v0tCWvDNjQDjqEEOngoFAt5pf/edit)  **  
+**[Migration, Climate Similarity, and the Consequences of Climate Mismatch](https://drive.google.com/file/d/11uSqCe0v0tCWvDNjQDjqEEOngoFAt5pf/edit)**  
 with Marco Tabellini and Charles Taylor *[Submitted]*
 
 <div class="button-bar">
@@ -68,11 +68,9 @@ The rise in political polarization over the recent years has fostered scrutiny o
 
 ## Pre-Doctoral Work
 
-**Wading Out the Storm: The Role of Poverty in Exposure, Vulnerability and Resilience to Floods in Dar Es Salaam**  <br/> with Alvina Erman, Mersedeh Tariverdi, Xiaomeng Chen, Rose Vincent, Silvia Malgioglio, Jun Rentschler, Stéphane Hallegatte, Nobuo Yoshida 
+**[Wading Out the Storm: The Role of Poverty in Exposure, Vulnerability and Resilience to Floods in Dar Es Salaam](https://papers.ssrn.com/sol3/papers.cfm?Abstract_id=3436477)**  <br/> with Alvina Erman, Mersedeh Tariverdi, Xiaomeng Chen, Rose Vincent, Silvia Malgioglio, Jun Rentschler, Stéphane Hallegatte, Nobuo Yoshida 
 
 <div class="button-bar">
-<a href="https://papers.ssrn.com/sol3/papers.cfm?Abstract_id=3436477" class="button_that_looks_like_link">Paper</a>
-/
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('wading_out')">Abstract</button>
 </div>
 <div id="wading_out" style="display: none;">
@@ -80,11 +78,9 @@ Dar es Salaam is frequently affected by severe flooding causing destruction and 
 </div>
 </br>
 
-**Candle in the Wind? Energy System Resilience to Natural Shocks**<br/> with Jun Rentschler and Martin Kornejew 
+**[Candle in the Wind? Energy System Resilience to Natural Shocks](https://papers.ssrn.com/sol3/papers.cfm?Abstract_id=3430507)**<br/> with Jun Rentschler and Martin Kornejew 
 
 <div class="button-bar">
-<a href="https://papers.ssrn.com/sol3/papers.cfm?Abstract_id=3430507" class="button_that_looks_like_link">Paper</a>
-/
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('candle_in_wind')">Abstract</button>
 </div>
 <div id="candle_in_wind" style="display: none;">
@@ -92,12 +88,10 @@ This study finds that natural shocks -- storms in particular -- are a significan
 </div>
 </br>
 
-**Underutilized Potential: The Business Costs of Unreliable Infrastructure in Developing Countries** <br/>
+**[Underutilized Potential: The Business Costs of Unreliable Infrastructure in Developing Countries](https://papers.ssrn.com/sol3/papers.cfm?Abstract_id=3430509)** <br/>
 with Jun Rentschler, Martin Kornejew, Stéphane Hallegatte and Johannes Braese 
 
 <div class="button-bar">
-<a href="https://papers.ssrn.com/sol3/papers.cfm?Abstract_id=3430509" class="button_that_looks_like_link">Paper</a>
-/
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('underutilized_potential')">Abstract</button>
 </div>
 <div id="underutilized_potential" style="display: none;">
@@ -106,11 +100,9 @@ This study constructs a microdata set of about 143,000 firms to estimate the mon
 </br>
 
 
-**Infrastructure Disruptions: How Instability Breeds Household Vulnerability** <br/> with Alvina Erman, Julie Rozenberg, Jun Rentschler, Paolo Avner and Stéphane Hallegatte <br/>
+**[Infrastructure Disruptions: How Instability Breeds Household Vulnerability](https://papers.ssrn.com/sol3/papers.cfm?Abstract_id=3430512)** <br/> with Alvina Erman, Julie Rozenberg, Jun Rentschler, Paolo Avner and Stéphane Hallegatte <br/>
 
-<div class="button-bar">
-<a href="https://papers.ssrn.com/sol3/papers.cfm?Abstract_id=3430512" class="button_that_looks_like_link">Paper</a>
-/
+
 <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('infrastructure_disruption')">Abstract</button>
 </div>
 <div id="infrastructure_disruption" style="display: none;">
