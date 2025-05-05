@@ -1,0 +1,29 @@
+works:
+
+- title: "Protect or Prepare? Crop Insurance and Adaptation in a Changing Climate"
+  pdflink: "/pdf/obolensky_crop_insurance_JMP.pdf"
+  extranote: "Winner of the 2025 Rising Star Paper Prize at the International Industrial Organization Conference"
+  abstract: >
+   As climate risks intensify, governments increasingly subsidize insurance against weather shocks. While these subsidies improve financial protection against extreme weather events, they may reduce incentives for long-term adaptation to climate change. In this paper I study how U.S. crop insurance subsidies impact agricultural adaptation. I develop and estimate a dynamic land use model that incorporates beliefs on climate, crop insurance, and government subsidies.  I use the model to simulate future paths of production under alternative designs of crop insurance subsidies. Under the current design, funds increasingly flow to high-risk regions. As a result, farmers in riskier areas are more resistant to adaptation, which leads to higher public spending and more volatile output. I show that targeted subsidies---which adjust generosity based on regional climate trends---foster stability of agricultural production by encouraging crop switching patterns adapted to climate risk and increase welfare by 0.6 percentage points relative to the total value of agricultural output. Despite achieving better outcomes in aggregate, targeting penalizes farmers in the southern half of the U.S., which may lead to political resistance. I then consider an alternative in which subsidies are redistributed within states. This policy achieves 15% of the benefits obtainable under unconstrained targeting.
+
+- title: "Migration, Climate Similarity, and the Consequences of Climate Mismatch"
+  pdflink: "https://drive.google.com/file/d/11uSqCe0v0tCWvDNjQDjqEEOngoFAt5pf/edit"
+  coauthors: "Marco Tabellini and Charles Taylor"
+  book: "Reject and Resubmit, Quaterly Journal of Economics"
+  links:
+    - url: "https://www.nber.org/papers/w32035"
+      text: "NBER version"
+  press_coverage:
+    - title: "VoxEU"
+      url: "https://cepr.org/voxeu/columns/homeward-bound-how-migrants-seek-out-familiar-climates"
+  abstract: >
+    This paper examines the concept of “climate matching” in migration---the idea that migrants seek out destinations with familiar climates. Focusing on the US, we document that temperature distance between origin and destination predicts the distribution of migrants across counties. This pattern holds for internal and international migration in the past (1850-1940) and today (2011-2019), and is not explained by the spatial correlation of climate or the persistence of ethnic networks. We provide suggestive evidence for two mechanisms driving climate matching: climate-specific skills and climate-as-amenity. Then, we study the implications of climate matching for migrants. Leveraging plausibly exogenous variation in climate mismatch, we document that climate distance reduces life expectancy among immigrants, and increases mortality rates for their US-born children. We calculate an individual-level mortality cost of a  1°C change in climate to be \$5,250.
+
+
+- title: "Local Crop Diversity and Pest Diffusion: Evidence from the US Census of Agriculture"
+  pdflink: "https://tristandupuy.github.io/Crop_Diversity.pdf"
+  coauthors: "Tristan Du Puy"
+  abstract: >
+    We provide evidence of the role of local agricultural crop diversity, measured by local crop richness and evenness, in hampering the diffusion of pests. First, we build consistent county-level diversity measures using a new machine-learning based method to link the US Agricultural Census of Agriculture between 1880-2007. Second, we show large declines in local crop diversity over the second half of 20th century, consistent with previous findings. Finally, we examine the impact of crop diversity on the spread of two significant pest outbreaks in US agricultural systems—the boll weevil (1890-1930) and the imported fire ant (1940-1997). We address reverse causality concerns by instrumenting local crop diversity with the expected (pre-planting) spread in crop revenues. We find that increases in crop diversity prevented the diffusion of these two pests.
+
+
