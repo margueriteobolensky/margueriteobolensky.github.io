@@ -17,7 +17,9 @@ function hide_buttons(abstract) {
 ## Job Market Paper
 
 
-**[Protect or Prepare? Crop Insurance and Adaptation in a Changing Climate](content/working_papers/obolensky_crop_insurance_JMP.pdf)** 
+**[Protect or Prepare? Crop Insurance and Adaptation in a Changing Climate](content/working_papers/obolensky_crop_insurance_JMP.pdf)**
+
+Winner of Best Rising Star paper at the International Industrial Organization Conference 2025 
 
 <div class="button-bar">
   <button class="button_that_looks_like_link" role="button" onclick="hide_buttons('JMP')">Abstract</button>
