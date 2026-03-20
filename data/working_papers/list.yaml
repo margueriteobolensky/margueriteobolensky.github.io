@@ -25,7 +25,7 @@ works:
 - title: "Local Crop Diversity and Pest Diffusion: Evidence from the US Census of Agriculture"
   extranote: "Updated: December 2025"
   pdflink: "https://tristandupuy.github.io/Crop_Diversity.pdf"
-  coauthors: "Tristan Du Puy"
+  coauthors: "Emma Du Puy"
   abstract: >
     We provide evidence of the role of local agricultural crop diversity, measured by local crop richness and evenness, in hampering the diffusion of pests. First, we build consistent county-level diversity measures using a new machine-learning based method to link the US Agricultural Census of Agriculture between 1880-2007. Second, we show large declines in local crop diversity over the second half of 20th century, consistent with previous findings. Finally, we examine the impact of crop diversity on the spread of two significant pest outbreaks in US agricultural systems—the boll weevil (1890-1930) and the imported fire ant (1940-1997). We address reverse causality concerns by instrumenting local crop diversity with the expected (pre-planting) spread in crop revenues. We find that increases in crop diversity prevented the diffusion of these two pests.
 
