@@ -30,6 +30,20 @@
 {{ end }}
 {{ end }}
 
+
+{{ with .Site.Data.policy }}
+<hr>
+<h2 id="policy">Policy Papers</h2>
+{{ range . }}
+{{ range .works }}
+{{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
+{{ $scratch.Add "pubcnt" 1 }}   
+{{ end }}
+{{ end }}
+{{ end }}
+
+
+
 {{ with .Site.Data.worldbank }}
 <hr>
 <h2 id="worldbank">At the World Bank</h2>
