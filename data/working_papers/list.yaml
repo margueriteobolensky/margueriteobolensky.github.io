@@ -5,7 +5,12 @@ works:
   note: "Winner of the 2025 Rising Star Paper Prize at the International Industrial Organization Conference"
   extranote: "Updated: April 2026"
   abstract: >
-    As climate risks intensify, governments increasingly subsidize insurance against weather shocks. While these subsidies enhance short-run financial protection, they may dampen incentives for long-run adaptation to climate change. This paper studies how U.S. crop insurance subsidies shape agricultural adaptation. I develop and estimate a dynamic land-use model in which forward-looking farmers form beliefs about climate trends and make joint planting and insurance decisions under alternative subsidy regimes. Targeting subsidies toward regions with slower projected increases in climate risk partially mitigates the distortions created by the status quo by improving the spatial allocation of production. However, most gains come from decoupling subsidies from actuarially fair premiums, thereby restoring adaptation incentives.
+    As climate risks intensify, governments increasingly subsidize insurance against weather shocks. While these subsidies enhance short-run financial protection, 
+    they may dampen incentives for long-run adaptation to climate change. This paper studies how U.S. crop insurance subsidies shape agricultural adaptation. 
+    I develop and estimate a dynamic land-use model in which forward-looking farmers form beliefs about climate trends and make joint planting and insurance decisions
+     under alternative subsidy regimes. Targeting subsidies toward regions with slower projected increases in climate risk partially mitigates the distortions created 
+     by the status quo by improving the spatial allocation of production. However, most gains come from decoupling subsidies from actuarially fair premiums, 
+     thereby restoring adaptation incentives.
 
 - title: "Migration, Climate Similarity, and the Consequences of Climate Mismatch"
   pdflink: "https://drive.google.com/file/d/11uSqCe0v0tCWvDNjQDjqEEOngoFAt5pf/edit"
@@ -19,7 +24,13 @@ works:
     - title: "VoxEU"
       url: "https://cepr.org/voxeu/columns/homeward-bound-how-migrants-seek-out-familiar-climates"
   abstract: >
-    This paper examines the concept of “climate matching” in migration---the idea that migrants seek out destinations with familiar climates. Focusing on the US, we document that temperature distance between origin and destination predicts the distribution of migrants across counties. This pattern holds for internal and international migration in the past (1850-1940) and today (2011-2019), and is not explained by the spatial correlation of climate or the persistence of ethnic networks. We provide suggestive evidence for two mechanisms driving climate matching: climate-specific skills and climate-as-amenity. Then, we study the implications of climate matching for migrants. Leveraging plausibly exogenous variation in climate mismatch, we document that climate distance reduces life expectancy among immigrants, and increases mortality rates for their US-born children. We calculate an individual-level mortality cost of a  1°C change in climate to be \$5,250.
+    This paper examines the concept of “climate matching” in migration---the idea that migrants seek out destinations with familiar climates. 
+    Focusing on the US, we document that temperature distance between origin and destination predicts the distribution of migrants across counties. 
+    This pattern holds for internal and international migration in the past (1850-1940) and today (2011-2019), and is not explained by the spatial
+     correlation of climate or the persistence of ethnic networks. We provide suggestive evidence for two mechanisms driving climate matching: 
+     climate-specific skills and climate-as-amenity. Then, we study the implications of climate matching for migrants. Leveraging plausibly exogenous 
+     variation in climate mismatch, we document that climate distance reduces life expectancy among immigrants, and increases mortality rates for 
+     their US-born children. We calculate an individual-level mortality cost of a  1°C change in climate to be \$5,250.
 
 
 - title: "Local Crop Diversity and Pest Diffusion: Evidence from the Boll Weevil"
