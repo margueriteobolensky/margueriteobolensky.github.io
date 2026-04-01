@@ -22,11 +22,16 @@ works:
     This paper examines the concept of “climate matching” in migration---the idea that migrants seek out destinations with familiar climates. Focusing on the US, we document that temperature distance between origin and destination predicts the distribution of migrants across counties. This pattern holds for internal and international migration in the past (1850-1940) and today (2011-2019), and is not explained by the spatial correlation of climate or the persistence of ethnic networks. We provide suggestive evidence for two mechanisms driving climate matching: climate-specific skills and climate-as-amenity. Then, we study the implications of climate matching for migrants. Leveraging plausibly exogenous variation in climate mismatch, we document that climate distance reduces life expectancy among immigrants, and increases mortality rates for their US-born children. We calculate an individual-level mortality cost of a  1°C change in climate to be \$5,250.
 
 
-- title: "Local Crop Diversity and Pest Diffusion: Evidence from the US Census of Agriculture"
+- title: "Local Crop Diversity and Pest Diffusion: Evidence from the Boll Weevil"
   extranote: "Updated: December 2025"
   pdflink: "https://tristandupuy.github.io/Crop_Diversity.pdf"
   coauthors: "Emma Du Puy"
   abstract: >
-    We provide evidence of the role of local agricultural crop diversity, measured by local crop richness and evenness, in hampering the diffusion of pests. First, we build consistent county-level diversity measures using a new machine-learning based method to link the US Agricultural Census of Agriculture between 1880-2007. Second, we show large declines in local crop diversity over the second half of 20th century, consistent with previous findings. Finally, we examine the impact of crop diversity on the spread of two significant pest outbreaks in US agricultural systems—the boll weevil (1890-1930) and the imported fire ant (1940-1997). We address reverse causality concerns by instrumenting local crop diversity with the expected (pre-planting) spread in crop revenues. We find that increases in crop diversity prevented the diffusion of these two pests.
+    Modern agricultural landscapes are becoming increasingly homogeneous, driven by the rise of monoculture and the pursuit of economies of scale through larger, more contiguous tracts of land. 
+    The ecological consequences of this landscape simplification remain poorly quantified. We use the historical diffusion of the boll weevil across the U.S. Cotton Belt to causally link crop diversity to pest resilience. 
+    By developing a harmonized dataset that links historical agricultural censuses over time and leveraging terrain ruggedness as an instrument for local crop diversity, we show that more diverse croplands significantly 
+    slow pest spread. A one-standard-deviation increase in crop diversity reduces annual contamination risk by 12 percentage points, or 36 percent relative to the mean annual risk.
+    This study demonstrates that enhancing crop diversity can serve as an important component of sustainable pest management.
+
 
 
