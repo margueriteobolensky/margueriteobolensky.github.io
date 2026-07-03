@@ -19,9 +19,9 @@
 {{ end }}
 {{ end }}
 
-{{ with .Site.Data.work_in_progress }}
+{{ with .Site.Data.publications }}
 <hr>
-<h2 id="workinprogress">Works in Progress</h2>
+<h2 id="publications">Publications</h2>
 {{ range . }}
 {{ range .works }}
 {{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
@@ -31,9 +31,9 @@
 {{ end }}
 
 
-{{ with .Site.Data.policy }}
+{{ with .Site.Data.world_bank }}
 <hr>
-<h2 id="policy">Policy Papers</h2>
+<h2 id="world_bank">At the World Bank</h2>
 {{ range . }}
 {{ range .works }}
 {{ partial "publication.html" (dict "context" . "pid" ($scratch.Get "pubcnt")) }}
