@@ -16,7 +16,7 @@ works:
   pdflink: "https://drive.google.com/file/d/11uSqCe0v0tCWvDNjQDjqEEOngoFAt5pf/edit"
   coauthors: "Marco Tabellini and Charles Taylor"
   note: "Revise and Resubmit, Quarterly Journal of Economics"
-  extranote: "Updated: January 2026"
+  extranote: "Updated: October 2026"
   links:
     - url: "https://www.nber.org/papers/w32035"
       text: "NBER version"
@@ -24,18 +24,23 @@ works:
     - title: "VoxEU"
       url: "https://cepr.org/voxeu/columns/homeward-bound-how-migrants-seek-out-familiar-climates"
   abstract: >
-    This paper examines the concept of “climate matching” in migration---the idea that migrants seek out destinations with familiar climates. 
-    Focusing on the US, we document that temperature distance between origin and destination predicts the distribution of migrants across counties. 
-    This pattern holds for internal and international migration in the past (1850-1940) and today (2011-2019), and is not explained by the spatial
-     correlation of climate or the persistence of ethnic networks. We provide suggestive evidence for two mechanisms driving climate matching: 
-     climate-specific skills and climate-as-amenity. Then, we study the implications of climate matching for migrants. Leveraging plausibly exogenous 
-     variation in climate mismatch, we document that climate distance reduces life expectancy among immigrants, and increases mortality rates for 
-     their US-born children. We calculate an individual-level mortality cost of a  1°C change in climate to be \$5,250.
-
+    This paper documents that climate similarity has shaped the geography of migration in 
+    the United States for  more than 150 years, and that settling in less familiar climates 
+    is associated with worse immigrant well-being. Using historical and modern data on 
+    international and internal migration, we show that migrants disproportionately settle 
+    in destinations whose climates resemble those of their origins. The evidence is consistent 
+    with both the transferability of climate-specific skills and a direct amenity value of 
+    climatic familiarity. Migrants are willing to accept greater climate mismatch in exchange
+     for better economic opportunities, although climate similarity continues to shape their
+      destination choices. We then document that climate mismatch is associated with lower 
+      fertility, higher mortality among U.S.-born children, and shorter adult lives. The negative
+       relationship between climate mismatch and longevity persists within neighborhoods and 
+       becomes larger within families. The longevity association also persists into the second 
+       generation, whereas the fertility and the child-mortality associations do not.
 
 - title: "Local Crop Diversity and Pest Diffusion: Evidence from the Boll Weevil"
-  extranote: "Updated: December 2025"
-  pdflink: "https://tristandupuy.github.io/Crop_Diversity.pdf"
+  extranote: "Updated: April 2026"
+  pdflink: "https://emmadupuy.github.io/Crop_Diversity.pdf"
   coauthors: "Emma Du Puy"
   abstract: >
     Modern agricultural landscapes are becoming increasingly homogeneous, driven by the rise of monoculture and the pursuit of economies of scale through larger, more contiguous tracts of land. 
